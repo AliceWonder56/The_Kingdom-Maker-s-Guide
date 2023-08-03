@@ -1,0 +1,1 @@
+You can [[Collect Taxes Action|Collect Taxes|]] once per Kingdom turn to attempt to bolster your Economy-based checks for the remainder of the Kingdom turn. If you don't attempt to Collect Taxes, you can instead attempt a DC 11 flat check; on a success, reduce Unrest by 1.

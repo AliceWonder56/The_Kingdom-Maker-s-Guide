@@ -1,0 +1,1 @@
+You can draw upon the kingdom's funds to enhance the standard of living for its citizens by attempting the [[Improve Lifestyle]] activity or you can attempt a withdrawal from the kingdom's funds using the [[Tap Treasury]] activity.

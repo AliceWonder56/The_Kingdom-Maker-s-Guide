@@ -1,0 +1,1 @@
+Your party may now attempt one Civic activity (Either [[Build Structure]] or [[Demolish]]) for each of the kingdom’s settlements. You determine the order in which these activities are attempted and who rolls any skill checks.

@@ -1,0 +1,1 @@
+The Activity phase is when you make proclamations on expanding your kingdom, declare holidays, and manage your territory and settlements. It’s during this phase that the bulk of your kingdom’s growth occurs.

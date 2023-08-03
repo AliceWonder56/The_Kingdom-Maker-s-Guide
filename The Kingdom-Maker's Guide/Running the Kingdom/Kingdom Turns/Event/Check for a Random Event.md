@@ -1,0 +1,1 @@
+Attempt a DC 16 flat check. On success, a random kingdom event occurs (see Kingdom Events, Kingmaker Adventure Path pg. 553) If no random event occurs, the DC for this check in the next Kingdom turn is reduced by 5. Once an event occurs, the DC resets to 16.

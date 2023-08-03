@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "18e12cbe6da910c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "47bbe79eeff95ceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "199829ffa31c378b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Running the Kingdom/Kingdom Turns/Activity/Civic Actions/Structures/Build Tree.canvas",
+                "viewState": {
+                  "x": 1338.680359833422,
+                  "y": -294.47914183798093,
+                  "zoom": -0.5470556153189237
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "af0b5b845842c5c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Running the Kingdom/Kingdom Turns/Activity/Civic Actions/Structures/Town Hall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3586f0b23224ab4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Running the Kingdom/R.t.K. Glossary.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "4c160600c6df0823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Reconnoiter Hex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec65533eccf4eed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/L.A. Navigator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4e73c406548bc18",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e5c6cac01167d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cae04c41805913dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "1d8c497976cec7d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4fa9944357482819",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dad7d8301edfbcac",
+    "type": "split",
+    "children": [
+      {
+        "id": "69501ef2daf0b6b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a45c6c48e6c8ba9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Running the Kingdom/Kingdom Turns/Activity/Civic Actions/Structures/Build Tree.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a2a0d176c60797d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Running the Kingdom/Kingdom Turns/Activity/Civic Actions/Structures/Build Tree.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a72182004ccb92b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8dc282f35999cc0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Running the Kingdom/Kingdom Turns/Activity/Civic Actions/Structures/Build Tree.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "199829ffa31c378b",
+  "lastOpenFiles": [
+    "Running the Kingdom/R.t.K. Glossary.canvas",
+    "The Glossary.canvas",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/L.A. Navigator.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Activities.md",
+    "Running the Kingdom/Kingdom Turns/Phases and Steps.canvas",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Quell Unrest.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Send Diplomatic Envoy.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Rest and Relax.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Request Foreign Aid.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Repair Reputation.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Relocate Capital.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Recruit Army.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Supernatural Solution.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Supernatural Solution.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Reconnoiter Hex.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Purchase Commodities.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Provide Care.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Prognostication.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Pledge of Fealty.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Infiltration.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Focused Attention.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Hire Adventurers.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Establish Trade Agreement.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Creative Solution.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Create a Masterpiece.md",
+    "Running the Kingdom/Kingdom Turns/Activity/Civic Actions/Structures/Build Tree.canvas",
+    "Pasted image 20230730150444.png"
+  ]
+}

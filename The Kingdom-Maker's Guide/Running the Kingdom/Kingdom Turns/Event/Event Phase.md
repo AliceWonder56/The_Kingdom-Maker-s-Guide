@@ -1,0 +1,1 @@
+Events affect entire kingdom, single hexes, or a settlement. Some are harmful, while some are beneficial. Certain events continue for multiple turns, and only come to an end once they've been properly handled by the PCs or their kingdom.

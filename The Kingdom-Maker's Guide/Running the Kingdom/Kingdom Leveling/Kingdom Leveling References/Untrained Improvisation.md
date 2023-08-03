@@ -1,0 +1,1 @@
+Your Kingdom has learned how to handle situations when it’s out of its depth. Your proficiency bonus to untrained skill checks is equal to half your level instead of +0. If you’re 7th level or higher, the bonus increases to your full level instead. This doesn’t allow you to use the skill’s trained actions.

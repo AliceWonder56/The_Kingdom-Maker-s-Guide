@@ -1,0 +1,1 @@
+If you've established trade agreements, you can use the [[Manage Trade Agreements Action|Manage Trade Agreements]] activity.

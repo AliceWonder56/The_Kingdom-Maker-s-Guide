@@ -1,0 +1,1 @@
+If your kingdom has any stockpiles of Commodities, you can attempt the [[Trade Commodities]] activity to bolster your RP for the turn.

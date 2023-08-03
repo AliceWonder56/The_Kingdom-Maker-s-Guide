@@ -1,0 +1,5 @@
+To assign or change characters associated with leadership roles, do so now using the [[New Leadership]] kingdom activity (page 24). You can perform this activity as often as you wish during this step.
+
+Next, determine if any [[Vacancy Penalty |vacancy penalties|]] apply (page 18). Any unassigned roles incur their vacancy penalties.  Also, if a character assigned to a leadership role hasn’t spent the required week of downtime on that role (page 18) since the end of the last Kingdom turn, they must either give up one of the three kingdom activities they would perform during the Leadership Activities step of the Activity phase of this Kingdom turn or apply the vacancy penalty for their role until the start of the next Kingdom turn. (NPCs cannot perform kingdom activities, so in the unusual case that they were unable to spend the required downtime—see [[Leadership Roles]] on page 18—they must apply the vacancy penalty.) If a leader was replaced between Kingdom turns due to an unexpected vacancy, as long as a character currently holds the role and any characters assigned to the role collectively spent the required downtime, the vacancy penalty does not apply.
+
+

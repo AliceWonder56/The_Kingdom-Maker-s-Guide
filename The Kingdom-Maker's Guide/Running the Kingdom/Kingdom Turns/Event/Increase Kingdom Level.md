@@ -1,0 +1,1 @@
+If your kingdom's XP total is above 1,000, and your kingdom isn't at its maximum level, increase your kingdom level by 1 and subtract 1,000 from your XP total. See [Leveling Up Your Kingdom](https://2e.aonprd.com/Rules.aspx?ID=1758) for the full rules for leveling up.

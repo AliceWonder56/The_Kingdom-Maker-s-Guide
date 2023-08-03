@@ -1,0 +1,1 @@
+The Commerce phase is when the kingdom generates revenue or makes trade agreements.

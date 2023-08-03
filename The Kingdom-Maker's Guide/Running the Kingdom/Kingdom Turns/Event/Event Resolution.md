@@ -1,0 +1,1 @@
+Random events present opportunities to go forth in exploration or encounter mode to deal with a rampaging monster or the like; these are handled now. In some chapters of the _Kingmaker Adventure Path_, specific story events are introduced outside of Kingdom turns; these are resolved when they occur.

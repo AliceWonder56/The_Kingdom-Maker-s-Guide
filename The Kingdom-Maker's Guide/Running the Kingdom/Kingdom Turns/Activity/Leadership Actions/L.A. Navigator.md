@@ -1,0 +1,20 @@
+|    Skill    	| Key Ability 	| Untrained Leadership Activities                                                                                                                       	| Trained Leadership Activities                                                                   	|
+|:-----------:	|:-----------:	|--------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------	|
+| Agriculture 	|  Stability  	| -                                                                                              	| -                                                                                    	|
+|     Arts    	|   Culture   	| [[Craft Luxuries]]<br>[[Rest and Relax]]!<br>[[Quell Unrest]]!                                                                             	| [[Create a Masterpiece]]<br>[[Repair Reputation]] (Corruption)!                      	|
+|   Boating   	|   Economy   	| [[Establish Trade Agreement]]!<br>[[Rest and Relax]]!                                                                    	| -                                                                                    	|
+|   Defense   	|  Stability  	| [[Provide Care]]                                                                                                        	| -                                                                                    	|
+| Engineering 	|  Stability  	|     -                             	| [[Repair Reputation]] (Decay)!                                     	|
+| Exploration 	|   Economy   	| [[Hire Adventurers]]                                                               	| -                                                                                    	|
+|   Folklore  	|   Culture   	| [[Celebrate Holiday]]<br>[[Quell Unrest]]!                                                                                                 	| -                                                                                    	|
+|   Industry  	|   Economy   	| -                                                                                        	| [[Relocate Capital]]                                                                 	|
+|   Intrigue  	|   Loyalty   	| [[Infiltration]]<br>[[Quell Unrest]]!                                                                               	| [[Clandestine Business]]<br>[[Pledge of Fealty]]!<br>[[Repair Reputation]] (Strife)! 	|
+|    Magic    	|   Culture   	| [[Quell Unrest]]!<br>[[Supernatural Solution]]                                                                                             	| [[Establish Trade Agreement]]! (master)<br>[[Prognostication]]                       	|
+|   Politics  	|   Loyalty   	| [[Quell Unrest]]!                                             	| -                                                                                    	|
+| Scholarship 	|   Culture   	| [[Creative Solution]]<br>[[Rest and Relax]]!                                                                  	| -                                                                                    	|
+|  Statecraft 	|   Loyalty   	| -                                                                                                 	| [[Pledge of Fealty]]!<br>[[Request Foreign Aid]]<br>[[Send Diplomatic Envoy]]        	|
+|    Trade    	|   Economy   	| [[Capital Investment]]<br>[[Establish Trade Agreement]]<br>[[Purchase Commodities]]<br>[[Rest and Relax]]! 	| [[Repair Reputation]] (Crime)!                                  	|
+|   Warfare  	|  Loyalty  	| [[Quell Unrest]]!<br>[[Reconnoiter Hex]]                                          	| [[Pledge of Fealty]]! 	|
+| Wilderness 	| Stability 	| [[Rest and Relax]]! 	| -                     	|
+|  Any Skill 	|   Varies  	| [[Focused Attention]]!                                                            	| -                     	|
+! = This is a general skill activity

@@ -1,0 +1,1 @@
+The PC leaders may now collectively attempt up to three [[R.A. Navigator|Region activities|]] (listed on page 42). The players decide who rolls any skill checks needed to resolve these activities.
