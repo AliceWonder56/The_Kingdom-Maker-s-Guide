@@ -16,40 +16,65 @@
               "state": {
                 "file": "Building a Kingdom/Settlements/Structures/Build Tree.canvas",
                 "viewState": {
-                  "x": 872.1623262948386,
-                  "y": -113.88711716381974,
-                  "zoom": -1.2137222819855902
+                  "x": 1847.1258643316917,
+                  "y": 173.14107356457544,
+                  "zoom": -0.3333333333333334
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "61b001e7cf974051",
+            "id": "f9af8cb9259cc5ca",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Leveling References/Kingdom Feat.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "The Glossary.canvas",
+                "viewState": {
+                  "x": -229.0356198449231,
+                  "y": -291.29166460368674,
+                  "zoom": -1.1032154590670178
+                }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "f9af8cb9259cc5ca",
+            "id": "9788ca1b633558c7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Running a Kingdom/Kingdom Turns/Phases and Steps.canvas",
+                "viewState": {
+                  "x": 861.8567463384743,
+                  "y": -469.1715256951452,
+                  "zoom": -0.5849625007211563
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d720494bb7e5e0a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Running a Kingdom/Warfare/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "The Glossary.canvas",
+                "viewState": {
+                  "x": -749.2698554205442,
+                  "y": -73.099167619137,
+                  "zoom": -0.4365487924003512
+                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -68,7 +93,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -115,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running a Kingdom/Warfare/Untitled.md",
+                "file": "The Glossary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running a Kingdom/Warfare/Untitled.md",
+                "file": "The Glossary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running a Kingdom/Warfare/Untitled.md"
+                "file": "The Glossary.canvas"
               }
             }
           }
@@ -176,36 +201,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9af8cb9259cc5ca",
+  "active": "d720494bb7e5e0a3",
   "lastOpenFiles": [
+    "Running a Kingdom/Kingdom Turns/Phases and Steps.canvas",
+    "Running a Kingdom/Kingdom Turns/Activity/Army Actions/-A.A. Navigator.md",
     "The Glossary.canvas",
-    "Running a Kingdom/Warfare/Untitled.md",
     "Building a Kingdom/Settlements/Structures/Build Tree.canvas",
-    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Leveling References/Kingdom Feat.md",
-    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Advancement.md",
-    "Building a Kingdom/Settlements/Settlement Types.md",
-    "Building a Kingdom/Settlements/Settlement References/Max. Item Bonus.md",
-    "Building a Kingdom/Settlements/Settlement References/Overcrowding.md",
-    "Building a Kingdom/Settlements/Settlement References/Influence.md",
-    "Building a Kingdom/Settlements/Settlement References/Level.md",
-    "Building a Kingdom/Settlements/Settlement References/Population.md",
-    "Building a Kingdom/Settlements/Settlement References/Size.md",
-    "Building a Kingdom/Settlements/Settlement References/Settlement.md",
-    "Building a Kingdom/Settlements/Settlement References/Consumption.md",
+    "Running a Kingdom/Kingdom Turns/Upkeep/Upkeep Phase.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/Send Diplomatic Envoy.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/Request Foreign Aid.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/Rest and Relax.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/-L.A. Navigator.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Civic Activities.md",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom XP/Converting leftover RP into XP.md",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom XP/Claimed Hexes XP.md",
     "Running a Kingdom/Kingdom Turns/Event/Kingdom XP/Milestones.md",
-    "Building a Kingdom/Settlements/Settlement Construction.md",
-    "Running a Kingdom/Kingdom Turns/Upkeep/Assign Leadership Roles.md",
-    "Running a Kingdom/Kingdom Turns/Commerce/Commerce Phase.md",
-    "Running a Kingdom/Kingdom Turns/Activity/Army Actions/A.A. Navigator.md",
-    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/L.A. Navigator.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/Purchase Commodities.md",
+    "Building a Kingdom/Settlements/Structures/Dump.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/Clandestine Business.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Civic Actions/Build Structure.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Region Actions/-R.A. Navigator.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Region Actions/Establish Farmland.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Region Actions/Abandon Hex.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Region Actions/Go Fishing.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/Provide Care.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Region Actions/Clear Hex.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/Reconnoiter Hex.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/Celebrate Holiday.md",
+    "Building a Kingdom/Settlements/Settlement References/Consumption.md",
+    "Running a Kingdom/Kingdom Turns/Commerce/Commerce References/Improve Lifestyle.md",
+    "Running a Kingdom/Kingdom Turns/Commerce/Commerce References/Tap Treasury.md",
+    "Running a Kingdom/Warfare/Warfare.canvas",
     "Running a Kingdom/Kingdom Turns/Activity/Army Actions/A.A. Navigator.canvas",
-    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/K.F. Navigator.md",
-    "Running a Kingdom/Kingdom Turns/Activity/Leadership Activities.md",
-    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/Civil Service.md",
-    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/Liquidate Resources.md",
-    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/Quick Recovery.md",
-    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/Free and Fair.md",
-    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/Quality of Life.md",
     "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/K.F. Navigator.canvas",
     "Running a Kingdom/Kingdom Turns/Event/Kingdom XP/XP References/Pasted image 20230803162912.png",
     "Running a Kingdom/Kingdom Turns/Event/Kingdom XP/XP References",
@@ -223,9 +250,7 @@
     "Building a Kingdom",
     "Running a Kingdom/Kingdom Turns/Upkeep/Upkeep References/Resource Dice.png",
     "Running a Kingdom/Kingdom Turns/Upkeep/Upkeep References/Kingdom Consumption.png",
-    "Running a Kingdom/Warfare/Warfare.canvas",
     "Running the Kingdom/R.t.K. Glossary.canvas",
-    "Running a Kingdom/Kingdom Turns/Phases and Steps.canvas",
     "Pasted image 20230730150444.png"
   ]
 }
