@@ -14,68 +14,45 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Running the Kingdom/Kingdom Turns/Activity/Civic Actions/Structures/Build Tree.canvas",
+                "file": "Building a Kingdom/Settlements/Structures/Build Tree.canvas",
                 "viewState": {
-                  "x": 1338.680359833422,
-                  "y": -294.47914183798093,
-                  "zoom": -0.5470556153189237
+                  "x": 872.1623262948386,
+                  "y": -113.88711716381974,
+                  "zoom": -1.2137222819855902
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "af0b5b845842c5c1",
+            "id": "61b001e7cf974051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running the Kingdom/Kingdom Turns/Activity/Civic Actions/Structures/Town Hall.md",
+                "file": "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Leveling References/Kingdom Feat.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f3586f0b23224ab4",
+            "id": "f9af8cb9259cc5ca",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Running the Kingdom/R.t.K. Glossary.canvas",
+                "file": "The Glossary.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -639,
+                  "y": -270,
+                  "zoom": -1.436548792400351
                 }
               }
             }
-          },
-          {
-            "id": "4c160600c6df0823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Reconnoiter Hex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec65533eccf4eed6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/L.A. Navigator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running the Kingdom/Kingdom Turns/Activity/Civic Actions/Structures/Build Tree.canvas",
+                "file": "The Glossary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running the Kingdom/Kingdom Turns/Activity/Civic Actions/Structures/Build Tree.canvas",
+                "file": "The Glossary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running the Kingdom/Kingdom Turns/Activity/Civic Actions/Structures/Build Tree.canvas"
+                "file": "The Glossary.canvas"
               }
             }
           }
@@ -202,34 +179,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "199829ffa31c378b",
+  "active": "cae04c41805913dc",
   "lastOpenFiles": [
-    "Running the Kingdom/R.t.K. Glossary.canvas",
+    "Building a Kingdom/Settlements/Structures/Build Tree.canvas",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Leveling References/Kingdom Feat.md",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Advancement.md",
+    "Building a Kingdom/Settlements/Settlement Types.md",
+    "Building a Kingdom/Settlements/Settlement References/Max. Item Bonus.md",
+    "Building a Kingdom/Settlements/Settlement References/Overcrowding.md",
+    "Building a Kingdom/Settlements/Settlement References/Influence.md",
+    "Building a Kingdom/Settlements/Settlement References/Level.md",
+    "Building a Kingdom/Settlements/Settlement References/Population.md",
+    "Building a Kingdom/Settlements/Settlement References/Size.md",
+    "Building a Kingdom/Settlements/Settlement References/Settlement.md",
+    "Building a Kingdom/Settlements/Settlement References/Consumption.md",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom XP/Milestones.md",
+    "Building a Kingdom/Settlements/Settlement Construction.md",
     "The Glossary.canvas",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/L.A. Navigator.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Activities.md",
-    "Running the Kingdom/Kingdom Turns/Phases and Steps.canvas",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Quell Unrest.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Send Diplomatic Envoy.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Rest and Relax.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Request Foreign Aid.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Repair Reputation.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Relocate Capital.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Recruit Army.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Supernatural Solution.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Supernatural Solution.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Reconnoiter Hex.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Purchase Commodities.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Provide Care.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Prognostication.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Pledge of Fealty.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Infiltration.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Focused Attention.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Hire Adventurers.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Establish Trade Agreement.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Creative Solution.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Leadership Actions/Create a Masterpiece.md",
-    "Running the Kingdom/Kingdom Turns/Activity/Civic Actions/Structures/Build Tree.canvas",
+    "Running a Kingdom/Kingdom Turns/Upkeep/Assign Leadership Roles.md",
+    "Running a Kingdom/Kingdom Turns/Commerce/Commerce Phase.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Army Actions/A.A. Navigator.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/L.A. Navigator.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Army Actions/A.A. Navigator.canvas",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/K.F. Navigator.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Activities.md",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/Civil Service.md",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/Liquidate Resources.md",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/Quick Recovery.md",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/Free and Fair.md",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/Quality of Life.md",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/Fame and Fortune.md",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/K.F. Navigator.canvas",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom XP/XP References/Pasted image 20230803162912.png",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom XP/XP References",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom XP/XP References/Pasted image 20230803162957.png",
+    "Misc Resources",
+    "Pasted image 20230803163102.png",
+    "Pasted image 20230803163200.png",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom XP",
+    "Pasted image 20230803162702.png",
+    "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats",
+    "Building a Kingdom/Settlements/Settlement References",
+    "Building a Kingdom/Settlements/Settlements References",
+    "Building a Kingdom/Settlements",
+    "Building a Kingdom/Lvl 1 References",
+    "Building a Kingdom",
+    "Running a Kingdom/Kingdom Turns/Upkeep/Upkeep References/Resource Dice.png",
+    "Running a Kingdom/Kingdom Turns/Upkeep/Upkeep References/Kingdom Consumption.png",
+    "Running a Kingdom/Warfare/Warfare.canvas",
+    "Running the Kingdom/R.t.K. Glossary.canvas",
+    "Running a Kingdom/Kingdom Turns/Phases and Steps.canvas",
     "Pasted image 20230730150444.png"
   ]
 }

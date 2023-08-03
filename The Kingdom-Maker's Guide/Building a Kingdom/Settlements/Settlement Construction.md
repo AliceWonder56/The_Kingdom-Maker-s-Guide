@@ -1,0 +1,3 @@
+You can establish [villages](https://2e.aonprd.com/Rules.aspx?ID=1831) in your kingdom immediately. At 3rd level, you can expand villages into towns. At 9th level, you can expand towns into cities. And at 15th level, you can expand cities into metropolises.  
+  
+As villages grow into larger settlements, you not only gain more room to build, but the maximum item bonus you can gain from that settlement's structures increases as well (see [[Settlement Types]]).

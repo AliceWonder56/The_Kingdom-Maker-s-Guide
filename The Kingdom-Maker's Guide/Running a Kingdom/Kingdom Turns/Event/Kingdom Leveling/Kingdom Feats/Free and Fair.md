@@ -1,0 +1,3 @@
+### Tags: #Kingdom
+
+Your reputation for transparency and fairness in conducting elections, appointments, and other changes in government inspires tremendous public trust. You gain a +2 circumstance bonus to Loyalty-based checks attempted as part of the [[New Leadership]] and [[Pledge of Fealty]] activities. If you fail or critically fail such a check, you can spend 2 RP to reroll the check (but without the +2 circumstance bonus); attempting this adds the [Fortune](https://2e.aonprd.com/Traits.aspx?ID=76) trait. You must take the result of the second roll, even if it is worse than the original roll.

@@ -1,0 +1,3 @@
+### Tags: #Kingdom
+
+Your vassals take their duty to protect those under their stewardship seriously, and your engineers emphasize the value of a strong defense when it comes to building settlements and fortifications. You gain a +2 circumstance bonus to checks attempted as part of the [[Fortify Hex]] activity and on activities to build or repair a [[Barracks]], [[Castle]], [[Garrison]], [[Keep]], [[Wall, Stone|Stone Wall|]], or [[Wall, Wooden|Wooden Wall|]]. In addition, you gain a +1 status bonus to all kingdom checks attempted during dangerous events that directly impact your settlements' defenses.

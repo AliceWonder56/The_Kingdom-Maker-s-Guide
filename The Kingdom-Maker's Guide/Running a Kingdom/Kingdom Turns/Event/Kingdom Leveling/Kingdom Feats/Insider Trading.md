@@ -1,0 +1,3 @@
+### Tags: #Kingdom
+
+Your leading citizens share valuable business information with one another and with associates in other lands, and they hire one another's workers to supply the labor they need to fuel their production. You gain a +1 status bonus to [[Establish Work Site]], [[Establish Trade Agreement]], and [[Trade Commodities]] activities. In addition, gain 1 bonus Resource Die at the start of each Kingdom turn.

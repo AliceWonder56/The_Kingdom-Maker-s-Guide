@@ -1,0 +1,1 @@
+This indicates the maximum number of blocks the settlement can occupy in an Urban Grid.

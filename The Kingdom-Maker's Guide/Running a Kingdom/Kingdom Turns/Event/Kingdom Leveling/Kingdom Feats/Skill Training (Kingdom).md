@@ -1,0 +1,3 @@
+### Tags: #Kingdom
+
+Your kingdom receives the trained proficiency rank in a Kingdom skill of your choice. You can select this feat multiple times, choosing a new skill each time

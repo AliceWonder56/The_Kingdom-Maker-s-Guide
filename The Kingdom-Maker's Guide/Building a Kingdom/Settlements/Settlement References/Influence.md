@@ -1,0 +1,5 @@
+A settlement's influence area is the area around a settlement where meaningful economic and productive activity can occur, as well as where the settlement's beneficial effects extend. The numeric value indicates the number of hexes that the settlement's influence extends. Thus, a village only influences the hex it's located in, while a town influences all adjacent hexes. If a settlement has only Water Borders and no Bridges, that settlement's influence is 0 regardless of its settlement type.  
+  
+Certain activities and the impact of some kingdom events are limited to a settlement's influence. Structures in a settlement that provide a specific item bonus do so to all of the claimed hexes influenced by their settlement. (Structures in your capital city provide that bonus to all of the kingdom's claimed hexes, regardless of the capital's influence.)  
+  
+Hexes not claimed by your kingdom are never part of your settlements' influence areas, even if they are within the distance noted above. A hex can be influenced by multiple settlements.

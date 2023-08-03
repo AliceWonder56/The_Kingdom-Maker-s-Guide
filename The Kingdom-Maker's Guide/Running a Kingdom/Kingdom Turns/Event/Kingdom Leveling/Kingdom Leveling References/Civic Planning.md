@@ -1,0 +1,1 @@
+During the [[Civic Activities]] step of the Activities phase of a Kingdom turn, one settlement of the party's choice can attempt two Civic activities rather than one. The second Civic activity occurs after all other settlements have taken their individual Civic activities.

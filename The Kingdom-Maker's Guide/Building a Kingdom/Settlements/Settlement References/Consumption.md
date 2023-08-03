@@ -1,0 +1,1 @@
+Consumption is a numerical value that indicates the Food commodities the settlement requires in order to remain viable and functional. The number given here shows the settlement's base consumption; specific structures in the settlements can increase or decrease its Consumption.

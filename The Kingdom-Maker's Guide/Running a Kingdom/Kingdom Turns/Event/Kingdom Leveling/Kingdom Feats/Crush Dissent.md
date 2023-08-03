@@ -1,0 +1,3 @@
+### Tags: #Kingdom
+
+Your rule brooks no dissent and stamps out traitors, making harsh examples of them. Once per Kingdom turn when you gain Unrest, you can attempt to crush the dissent by attempting a basic [Warfare](https://2e.aonprd.com/Skills.aspx?ID=32) check. On a success, the Unrest increase is canceled, but on a critical failure, the Unrest increase is doubled. In addition, you gain a +1 status bonus to checks to resolve dangerous kingdom events that involve internal bickering, such as Feud.

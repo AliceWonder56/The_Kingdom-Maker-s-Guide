@@ -1,0 +1,1 @@
+At 5th level and every 5 levels thereafter, you boost three different kingdom ability scores. You can use these ability boosts to increase your kingdom's ability scores above 18. Boosting an ability score increases it by 2 if it starts out below 18, or by 1 if it's already 18 or above.
