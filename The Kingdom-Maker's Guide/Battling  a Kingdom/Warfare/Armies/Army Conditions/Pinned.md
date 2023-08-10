@@ -1,0 +1,1 @@
+The army and cannot move freely. It has the [[outflanked]] condition and cannot use any #Maneuver war actions. A pinned army cannot be [[Deploy Army|deployed]].

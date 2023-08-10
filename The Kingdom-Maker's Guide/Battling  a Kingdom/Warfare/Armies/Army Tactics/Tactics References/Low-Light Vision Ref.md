@@ -1,0 +1,1 @@
+A creature with low-light vision can see in dim light as though it were bright light, so it ignores the concealed condition due to dim light.

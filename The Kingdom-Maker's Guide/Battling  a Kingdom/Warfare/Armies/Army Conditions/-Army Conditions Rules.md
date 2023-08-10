@@ -1,0 +1,3 @@
+When an army becomes affected by a condition, that condition's effects last until the condition's stated duration ends or the condition is removed. As with character conditions, some army conditions [override others](https://2e.aonprd.com/Rules.aspx?ID=774).  
+  
+Some army conditions have a numerical condition value. This value conveys the severity of a condition, and such conditions often give a bonus or penalty equal to their value. These values can often be reduced by taking the Recover Army activity or simply by waiting, as described in the condition itself. If a condition value is ever reduced to 0, the condition ends.

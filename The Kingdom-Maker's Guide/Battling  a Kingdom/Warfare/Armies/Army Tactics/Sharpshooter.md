@@ -1,1 +1,3 @@
-#### Tags: #Cavalry , #Infantry , #Siege , #Skirmisher
+#### Tags: #Cavalry , #Infantry , #Skirmisher
+
+The commander drills the army in precision ranged attacks. You gain a +1 status bonus on attacks with ranged Strikes, but suffer a –2 status bonus on attacks with melee Strikes. At 9th level, the penalty to melee Strikes is reduced to –1, and at 15th level the penalty to melee Strikes is removed. The army can use the [[Covering Fire]] tactical war action.

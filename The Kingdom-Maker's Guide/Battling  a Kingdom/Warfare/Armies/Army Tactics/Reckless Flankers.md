@@ -1,1 +1,3 @@
-#### Tags: #Cavalry , #Infantry , #Siege , #Skirmisher
+#### Tags: #Cavalry ,  #Skirmisher
+
+Your army is skilled at surrounding their foes and distracting them, at the cost of spreading out too much and being more vulnerable. When you use the [[Advance]] war action to successfully [[Engaged|engage]] an army, you can choose to take a –2 circumstance penalty to your AC in order to gain a +1 circumstance bonus on attack rolls. If you do so, these modifiers remain in effect until you are no longer engaged. You can use the [[Outflank]] tactical war action.

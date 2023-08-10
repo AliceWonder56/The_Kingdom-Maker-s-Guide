@@ -1,0 +1,10 @@
+#### Tags: #Infantry , #Morale , #Skirmisher 
+#### Requirements: [[Flexible Tactics]]
+#### Actions: Reaction
+#### Trigger: Your army succeeds at a #Morale check
+---
+Your army feigns defeat to trick an enemy army. Attempt a Morale check against a target army.  
+  
+**Critical Success** The target army is caught off guard by your army's deception. It becomes [[outflanked]] and is unable to take reactions until the start of your next turn.  
+**Success** The target army is caught off guard by your army's deception and is outflanked until the start of its next turn.  
+**Critical Failure** The enemy anticipated your tactic and moves to take advantage of the situation. Your army becomes [[outflanked]] until the start of your next turn.

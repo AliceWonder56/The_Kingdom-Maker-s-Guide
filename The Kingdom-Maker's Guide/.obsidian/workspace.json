@@ -77,7 +77,7 @@
         "currentTab": 3
       },
       {
-        "id": "1d08a2bc696c5188",
+        "id": "6a1ba2432fac8703",
         "type": "tabs",
         "children": [
           {
@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Battling  a Kingdom/Warfare/Armies/Army Tactics/Keep up the Pressure.md",
+                "file": "Battling  a Kingdom/Warfare/Armies/Reading Army Stat Blocks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Battling  a Kingdom/Warfare/Armies/Army Tactics/-Tactics Navigator.md",
+                "file": "Battling  a Kingdom/Warfare/Armies/Reading Army Stat Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Battling  a Kingdom/Warfare/Armies/Army Tactics/-Tactics Navigator.md",
+                "file": "Battling  a Kingdom/Warfare/Armies/Reading Army Stat Blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Battling  a Kingdom/Warfare/Armies/Army Tactics/-Tactics Navigator.md"
+                "file": "Battling  a Kingdom/Warfare/Armies/Reading Army Stat Blocks.md"
               }
             }
           }
@@ -220,35 +220,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b72261f28611ea99",
+  "active": "cae04c41805913dc",
   "lastOpenFiles": [
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Keep up the Pressure.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Reckless Flankers.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Sharpshooter.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Flexible Tactics.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Flaming Shot.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Field Triage.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Explosive Shot.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Defensive Tactics.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Darkvision.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Cavalry Experts.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Bloodied but Unbroken.md",
+    "Battling  a Kingdom/Warfare/The Battlefield",
     "Battling  a Kingdom/Warfare/Armies/Army Tactics/-Tactics Navigator.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Ambush.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Toughened Soldiers.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Opening Salvo.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Merciless.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Low-Light Vision.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Live off the Land.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Keen Eyed.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Increased Ammunition.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Hold the Line.md",
-    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Focused Devotion.md",
+    "Battling  a Kingdom/Warfare/Armies/Reading Army Stat Blocks.md",
+    "Battling  a Kingdom/Warfare/Armies/Leveling up Your Armies.md",
+    "Battling  a Kingdom/Warfare/Armies/Army Level Modifiers.md",
+    "Running a Kingdom/Kingdom Turns/Phases and Steps.canvas",
+    "Battling  a Kingdom/Warfare/Armies/Army Conditions/-Army Conditions Rules.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Region Actions/-R.A. Navigator.md",
     "Running a Kingdom/Kingdom Turns/Activity/Army Actions/-A.A. Navigator.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/-L.A. Navigator.md",
+    "Battling  a Kingdom/Warfare/Armies/Recruiting an Army.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Leadership Actions/Recruit Army.md",
+    "Battling  a Kingdom/Warfare/Armies/Army Types/Basic Armies/Siege Engines.md",
+    "Battling  a Kingdom/Warfare/Armies/Army Types/Basic Armies/Skirmishers.md",
+    "Battling  a Kingdom/Warfare/Armies/Army Types/Basic Armies/Cavalry.md",
+    "Battling  a Kingdom/Warfare/Armies/Army Types/Basic Armies/Infantry.md",
     "Running a Kingdom/Kingdom Turns/Activity/Army Actions/Train Army.md",
     "Running a Kingdom/Kingdom Turns/Activity/Army Actions/Recover Weary Army.md",
-    "Building a Kingdom/Kingdom Skills",
     "Running a Kingdom/Kingdom Turns/Activity/Army Actions/Recover Shaken Army.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Army Actions/Recover Mired or Pinned Army.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Army Actions/Recover Lost Army.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Army Actions/Recover Defeated Army.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Army Actions/Recover Damaged Army.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Army Actions/Outfit Army.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Army Actions/Offensive Gambit.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Army Actions/Garrison Army.md",
+    "Running a Kingdom/Kingdom Turns/Activity/Army Actions/Disband Army.md",
+    "Battling  a Kingdom/Warfare/Armies/Army Gear",
+    "The Glossary.canvas",
+    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Tactics References/Darkness.png",
+    "Battling  a Kingdom/Warfare/Armies/Army Tactics/Tactics References",
+    "Building a Kingdom/Kingdom Skills",
     "Battling  a Kingdom",
     "Building a Kingdom/Terrain Features",
     "Battling  a Kingdom/Warfare/Armies",
@@ -256,11 +261,7 @@
     "Battling  a Kingdom/Warfare/War Actions",
     "Battling  a Kingdom/Warfare/War Actions/Basic War Actions",
     "Battling  a Kingdom/Warfare/Armies/Army Tactics",
-    "Battling  a Kingdom/Warfare/Armies/Army Conditions",
-    "Battling  a Kingdom/Warfare/Armies/Army Types/Unlocked Specialized Armies",
     "Battling  a Kingdom/Warfare/Warfare.canvas",
-    "Running a Kingdom/Kingdom Turns/Phases and Steps.canvas",
-    "The Glossary.canvas",
     "Building a Kingdom/Settlements/Structures/Build Tree.canvas",
     "Running a Kingdom/Kingdom Turns/Activity/Army Actions/A.A. Navigator.canvas",
     "Running a Kingdom/Kingdom Turns/Event/Kingdom Leveling/Kingdom Feats/K.F. Navigator.canvas",

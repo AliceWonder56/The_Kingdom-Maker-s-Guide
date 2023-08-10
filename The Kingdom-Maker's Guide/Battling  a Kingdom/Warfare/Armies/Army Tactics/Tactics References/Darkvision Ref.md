@@ -1,0 +1,1 @@
+A creature with darkvision or greater darkvision can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. Some forms of magical darkness, such as a 4th-level [[Darkness.png|Darkness]] spell, block normal darkvision. A creature with greater darkvision, however, can see through even these forms of magical darkness.
