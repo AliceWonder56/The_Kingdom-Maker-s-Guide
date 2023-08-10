@@ -1,0 +1,1 @@
+If the PCs [[Clear Hex|Clear]] a hex that contains a Structure, they can automatically add that structure to a settlement founded there, free of cost. Each specific hex encounter area in this Adventure Path notes any types of structure it contains, as appropriate.

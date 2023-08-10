@@ -48,7 +48,7 @@
 		{"type":"text","text":"[[Printing House]]","id":"3c23d9c7f2db5bd8","x":432,"y":-785,"width":198,"height":60,"color":"3"},
 		{"type":"text","text":"[[Hospital]]","id":"d82760fc49c51d43","x":1900,"y":-676,"width":120,"height":50,"color":"5"},
 		{"type":"text","text":"[[Wall, Stone]]","id":"b031d0d796f4e293","x":1806,"y":-281,"width":148,"height":60,"color":"5"},
-		{"type":"text","text":"[[Bridge]]","id":"0967351cbf084cac","x":1629,"y":9,"width":120,"height":60,"color":"5"},
+		{"type":"text","text":"[[Building a Kingdom/Settlements/Structures/Bridge]]","id":"0967351cbf084cac","x":1629,"y":9,"width":120,"height":60,"color":"5"},
 		{"type":"text","text":"[[Brewery]]","id":"fdef12e5cf5e8bb3","x":1629,"y":109,"width":120,"height":60,"color":"5"},
 		{"type":"text","text":"[[Park]]","id":"97e12bbc73dd6948","x":1749,"y":-91,"width":97,"height":60,"color":"5"},
 		{"type":"text","text":"[[Granary]]","id":"febbbf055d0f8fdb","x":1760,"y":109,"width":120,"height":60,"color":"5"},

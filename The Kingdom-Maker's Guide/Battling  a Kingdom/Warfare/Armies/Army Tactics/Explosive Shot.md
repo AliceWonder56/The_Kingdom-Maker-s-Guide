@@ -1,0 +1,3 @@
+#### Tags: #Siege
+
+The army's ranged attacks explode and spray fire, shrapnel, or other damaging material in every direction. Whenever the army critically hits a non-[distant](https://2e.aonprd.com/Conditions.aspx?ID=52) army with a ranged [[Strike]], inflict 1 point of additional damage to another non-distant enemy army of your choice. You can use the [[Overwhelming Bombardment]] tactical war action with the army

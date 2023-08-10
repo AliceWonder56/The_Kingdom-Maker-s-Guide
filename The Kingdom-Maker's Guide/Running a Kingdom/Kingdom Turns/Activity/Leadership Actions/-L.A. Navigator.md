@@ -12,9 +12,9 @@
 |    Magic    	|   Culture   	| [[Quell Unrest]]!<br>[[Supernatural Solution]]                                                                                             	| [[Establish Trade Agreement]]! (master)<br>[[Prognostication]]                       	|
 |   Politics  	|   Loyalty   	| [[Quell Unrest]]!                                             	| -                                                                                    	|
 | Scholarship 	|   Culture   	| [[Creative Solution]]<br>[[Rest and Relax]]!                                                                  	| -                                                                                    	|
-|  Statecraft 	|   Loyalty   	| -                                                                                                 	| [[Pledge of Fealty]]!<br>[[Request Foreign Aid]]<br>[[Send Diplomatic Envoy]]        	|
+|  Statecraft 	|   Loyalty   	| [[Recruit Army]] (Specialized)                                                                                                 	| [[Pledge of Fealty]]!<br>[[Request Foreign Aid]]<br>[[Send Diplomatic Envoy]]        	|
 |    Trade    	|   Economy   	| [[Capital Investment]]<br>[[Establish Trade Agreement]]<br>[[Purchase Commodities]]<br>[[Rest and Relax]]! 	| [[Repair Reputation]] (Crime)!                                  	|
-|   Warfare  	|  Loyalty  	| [[Quell Unrest]]!<br>[[Reconnoiter Hex]]                                          	| [[Pledge of Fealty]]! 	|
+|   Warfare  	|  Loyalty  	| [[Quell Unrest]]!<br>[[Reconnoiter Hex]]<br>[[Recruit Army]] (Basic)                                          	| [[Pledge of Fealty]]! 	|
 | Wilderness 	| Stability 	| [[Rest and Relax]]! 	| -                     	|
 |  Any Skill 	|   Varies  	| [[Focused Attention]]!                                                            	| -                     	|
 ! = This is a general skill activity

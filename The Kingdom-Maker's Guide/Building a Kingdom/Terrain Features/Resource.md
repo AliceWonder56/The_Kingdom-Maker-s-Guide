@@ -1,0 +1,1 @@
+Any hex indicated as being a particularly dense or lucrative source of Lumber, Ore, or Stone makes for an excellent place to [[Establish Work Site|Establish a Work Site]]. If the PCs Establish a Work Site in such a hex that focuses on the appropriate type of Commodity (as indicated in the encounter text), all Commodities produced are doubled.

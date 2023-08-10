@@ -1,0 +1,1 @@
+A Settlement can be a village, town, city, or metropolis; see [[Settlements]] for full details.

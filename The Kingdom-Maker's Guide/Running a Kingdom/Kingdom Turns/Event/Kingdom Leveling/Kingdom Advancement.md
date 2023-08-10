@@ -12,22 +12,22 @@ As the kingdom advances, it gains the abilities described on these two pages. Ab
 |:---:|:---:|:---|
 |Level|Control DC|Kingdom features|
 |1|14|[[Charter]], [[Government]], [[Heartland]], initial proficiencies, [[Favored Land]], [[settlement construction]] (village)|
-|2|15|[[Kingdom Feat]], [[skill increase]], [[Untrained Improvisation]]|
-|3|16|[[Settlement construction]] (town), [[skill increase]]|
-|4|18|[[Expansion expert]], [[fine living]], [[Kingdom Feat]], [[skill increase]]|
-|5|20|[[Ability boosts]], [[ruin resistance]], [[skill increase]]|
-|6|22|[[Kingdom Feat]], [[skill increase]]|
-|7|23|[[Skill increase]], [[Untrained Improvisation]] (full level)|
-|8|24|[[Experienced leadership]] +2, [[Kingdom Feat]], [[ruin resistance]], [[skill increase]]|
-|9|26|[[Expansion expert]] (Claim Hex 3 times/turn), [[settlement construction]] (city), [[skill increase]]|
-|10|27|[[Ability boosts]], [[Kingdom Feat]], [[life of luxury]], [[skill increase]]|
-|11|28|[[Ruin resistance]], [[skill increase]]|
-|12|30|[[Civic planning]], [[Kingdom Feat]], [[skill increase]]|
-|13|31|[[Skill increase]]|
-|14|32|[[Kingdom Feat]], [[ruin resistance]], [[skill increase]]|
-|15|34|[[Ability boosts]], [[settlement construction]] (metropolis), [[skill increase]]|
-|16|35|[[Experienced leadership]] +3, [[Kingdom Feat]], [[skill increase]]|
-|17|36|[[Ruin resistance]], [[skill increase]]|
-|18|38|[[Kingdom Feat]], [[skill increase]]|
-|19|39|[[Skill increase]]|
-|20|40|[[Ability boosts]], [[envy of the world]], [[Kingdom Feat]], [[ruin resistance]], [[skill increase]]|
+|2|15|[[Kingdom Feat]], [[Skill Increase]], [[Untrained Improvisation]]|
+|3|16|[[Settlement construction]] (town), [[Skill Increase]]|
+|4|18|[[Expansion Expert]], [[Fine Living]], [[Kingdom Feat]], [[Skill Increase]]|
+|5|20|[[Ability Boosts]], [[Ruin Resistance]], [[Skill Increase]]|
+|6|22|[[Kingdom Feat]], [[Skill Increase]]|
+|7|23|[[Skill Increase]], [[Untrained Improvisation]] (full level)|
+|8|24|[[Experienced Leadership]] +2, [[Kingdom Feat]], [[Ruin Resistance]], [[Skill Increase]]|
+|9|26|[[Expansion Expert]] (Claim Hex 3 times/turn), [[settlement construction]] (city), [[Skill Increase]]|
+|10|27|[[Ability Boosts]], [[Kingdom Feat]], [[Life of Luxury]], [[Skill Increase]]|
+|11|28|[[Ruin Resistance]], [[Skill Increase]]|
+|12|30|[[Civic Planning]], [[Kingdom Feat]], [[Skill Increase]]|
+|13|31|[[Skill Increase]]|
+|14|32|[[Kingdom Feat]], [[Ruin Resistance]], [[Skill Increase]]|
+|15|34|[[Ability Boosts]], [[settlement construction]] (metropolis), [[Skill Increase]]|
+|16|35|[[Experienced Leadership]] +3, [[Kingdom Feat]], [[Skill Increase]]|
+|17|36|[[Ruin Resistance]], [[Skill Increase]]|
+|18|38|[[Kingdom Feat]], [[Skill Increase]]|
+|19|39|[[Skill Increase]]|
+|20|40|[[Ability Boosts]], [[Envy of the World]], [[Kingdom Feat]], [[Ruin Resistance]], [[Skill Increase]]|

@@ -1,0 +1,1 @@
+A hex that contains an easy land route over a river (be it a bridge or a ford) bypasses the normal increase in RP cost to [[Build Roads]] in that hex. A Settlement can be built in a hex with a Bridge; doing so allows that Settlement to start with a Bridge structure on one water border.

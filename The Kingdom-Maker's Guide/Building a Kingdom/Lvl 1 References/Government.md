@@ -1,6 +1,6 @@
 Though the terminology used in Kingmaker presumes the PCs establish a feudal monarchy in which a queen and/or king rules the land, feudalism isn't the only form of government to choose from. If the PCs decide upon a different type of government, adjust the names of certain leadership roles as you wish. The mechanics of these rules remain the same.  
   
-The choice of government grants three boosts to the kingdom's ability scores. Two boost specific abilities, while the third is a free boost that can be applied to any ability score other than the two that were specifically boosted. The government type also gives the kingdom the trained proficiency rank in two specific skills and grants a bonus [[Kingdom Feats|Kingdom Feat|]].  
+The choice of government grants three boosts to the kingdom's ability scores. Two boost specific abilities, while the third is a free boost that can be applied to any ability score other than the two that were specifically boosted. The government type also gives the kingdom the trained proficiency rank in two specific skills and grants a bonus [[-K.F. Navigator|Kingdom Feat|]].  
   
 On the kingdom sheet, record the type of government the PCs chose, which two skills received training, and which Kingdom feat the PCs received. On a separate sheet, record which three kingdom abilities received a boost in this step; refer to it when finalizing ability scores in step 5.
 

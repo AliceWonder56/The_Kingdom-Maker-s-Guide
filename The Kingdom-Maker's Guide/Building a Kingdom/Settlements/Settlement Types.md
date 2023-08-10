@@ -2,7 +2,7 @@ As your kingdom levels up and your settlements grow, a settlement's type can cha
 
 ## Settlement Types
 
-|**[[Settlement]]**|**[[Size]]**|**[[Population]]**|**[[Level]]**|**[[Consumption]]**|**[[Max. Item Bonus]]**|**[[Influence]]**|
+|**[[Settlements]]**|**[[Size]]**|**[[Population]]**|**[[Level]]**|**[[Consumption]]**|**[[Max. Item Bonus]]**|**[[Influence]]**|
 |---|---|---|---|---|---|---|
 |Village (1st)|1 block|400 or less|1|1|+1|0|
 |Town (3rd)|4 blocks|401–2,000|2–4|2|+1|1 hex|
